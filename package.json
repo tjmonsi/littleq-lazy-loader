@@ -58,7 +58,10 @@
     "ajv-keywords": "2.1.0",
     "slice-ansi": "1.0.0",
     "find-up": "2.1.0",
-    "path-exists": "3.0.0",
-    "@littleq/state-manager": "0.0.2"
+    "path-exists": "3.0.0"
+  },
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "global": "^4.3.2"
   }
 }
