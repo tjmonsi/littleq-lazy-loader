@@ -1,0 +1,64 @@
+{
+  "name": "@littleq/lazy-loader",
+  "version": "0.0.1",
+  "description": "Lazy loads components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmonsi/lazy-loader.git"
+  },
+  "author": "TJ Monserrat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmonsi/lazy-loader/issues"
+  },
+  "homepage": "https://github.com/tjmonsi/lazy-loader#readme",
+  "flat": true,
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "semistandard": "^11.0.0"
+  },
+  "resolutions": {
+    "eslint": "4.9.0",
+    "eslint-plugin-promise": "3.6.0",
+    "babel-code-frame": "7.0.0-beta.0",
+    "chalk": "2.2.0",
+    "ansi-styles": "3.2.0",
+    "supports-color": "4.5.0",
+    "debug": "3.1.0",
+    "globals": "10.1.0",
+    "ajv": "5.2.3",
+    "doctrine": "2.0.0",
+    "inquirer": "3.3.0",
+    "pluralize": "7.0.0",
+    "progress": "2.0.0",
+    "semver": "5.4.1",
+    "strip-ansi": "4.0.0",
+    "table": "4.0.2",
+    "ansi-regex": "3.0.0",
+    "acorn": "5.1.2",
+    "ansi-escapes": "3.0.0",
+    "cli-cursor": "2.1.0",
+    "figures": "2.0.0",
+    "mute-stream": "0.0.7",
+    "run-async": "2.3.0",
+    "rx-lite": "4.0.8",
+    "string-width": "2.1.1",
+    "restore-cursor": "2.0.0",
+    "onetime": "2.0.1",
+    "is-fullwidth-code-point": "2.0.0",
+    "minimist": "1.2.0",
+    "ajv-keywords": "2.1.0",
+    "slice-ansi": "1.0.0",
+    "find-up": "2.1.0",
+    "path-exists": "3.0.0",
+    "@littleq/state-manager": "0.0.2"
+  }
+}
